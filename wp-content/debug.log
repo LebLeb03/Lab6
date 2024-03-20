@@ -1,0 +1,301 @@
+[12-Mar-2024 01:01:39 UTC] PHP Deprecated:  Hook http_api_transports is deprecated since version 6.4.0 with no alternative available. in /wordpress/wp-includes/functions.php on line 140
+[12-Mar-2024 01:01:50 UTC] PHP Deprecated:  Hook http_api_transports is deprecated since version 6.4.0 with no alternative available. in /wordpress/wp-includes/functions.php on line 140
+[12-Mar-2024 01:03:32 UTC] PHP Deprecated:  Hook http_api_transports is deprecated since version 6.4.0 with no alternative available. in /wordpress/wp-includes/functions.php on line 140
+[12-Mar-2024 01:03:33 UTC] PHP Notice: A feed could not be found at `https://wordpress.org/news/feed/`; the status code is `400` and content-type is `text/plain` in /wordpress/wp-includes/class-simplepie.php on line 2
+[12-Mar-2024 01:03:34 UTC] PHP Notice: A feed could not be found at `https://planet.wordpress.org/feed/`; the status code is `400` and content-type is `text/plain` in /wordpress/wp-includes/class-simplepie.php on line 2
+[12-Mar-2024 01:03:36 UTC] PHP Deprecated:  Hook http_api_transports is deprecated since version 6.4.0 with no alternative available. in /wordpress/wp-includes/functions.php on line 140
+[12-Mar-2024 01:03:47 UTC] PHP Deprecated:  Hook http_api_transports is deprecated since version 6.4.0 with no alternative available. in /wordpress/wp-includes/functions.php on line 140
+[12-Mar-2024 01:04:21 UTC] PHP Deprecated:  Hook http_api_transports is deprecated since version 6.4.0 with no alternative available. in /wordpress/wp-includes/functions.php on line 140
+[15-Mar-2024 19:04:26 UTC] PHP Deprecated:  Hook http_api_transports is deprecated since version 6.4.0 with no alternative available. in /wordpress/wp-includes/functions.php on line 140
+[15-Mar-2024 19:04:58 UTC] PHP Deprecated:  Hook http_api_transports is deprecated since version 6.4.0 with no alternative available. in /wordpress/wp-includes/functions.php on line 140
+[15-Mar-2024 19:04:59 UTC] PHP Notice: A feed could not be found at `https://wordpress.org/news/feed/`; the status code is `400` and content-type is `text/plain` in /wordpress/wp-includes/class-simplepie.php on line 2
+[15-Mar-2024 19:04:59 UTC] PHP Notice: A feed could not be found at `https://planet.wordpress.org/feed/`; the status code is `400` and content-type is `text/plain` in /wordpress/wp-includes/class-simplepie.php on line 2
+[15-Mar-2024 19:05:04 UTC] PHP Deprecated:  Hook http_api_transports is deprecated since version 6.4.0 with no alternative available. in /wordpress/wp-includes/functions.php on line 140
+[15-Mar-2024 19:05:05 UTC] PHP Deprecated:  Hook http_api_transports is deprecated since version 6.4.0 with no alternative available. in /wordpress/wp-includes/functions.php on line 140
+[15-Mar-2024 19:05:14 UTC] PHP Deprecated:  Hook http_api_transports is deprecated since version 6.4.0 with no alternative available. in /wordpress/wp-includes/functions.php on line 140
+[15-Mar-2024 19:05:17 UTC] PHP Deprecated:  Hook http_api_transports is deprecated since version 6.4.0 with no alternative available. in /wordpress/wp-includes/functions.php on line 140
+[15-Mar-2024 19:05:20 UTC] PHP Deprecated:  Hook http_api_transports is deprecated since version 6.4.0 with no alternative available. in /wordpress/wp-includes/functions.php on line 140
+[15-Mar-2024 19:05:31 UTC] PHP Warning:  file_get_contents(/wordpress/wp-includes/css/classic-themes.min.css): Failed to open stream: No such file or directory in /wordpress/wp-includes/script-loader.php on line 14
+[15-Mar-2024 19:13:03 UTC] PHP Warning:  file_get_contents(/wordpress/wp-includes/css/classic-themes.min.css): Failed to open stream: No such file or directory in /wordpress/wp-includes/script-loader.php on line 14
+[15-Mar-2024 19:13:17 UTC] PHP Warning:  file_get_contents(/wordpress/wp-includes/css/classic-themes.min.css): Failed to open stream: No such file or directory in /wordpress/wp-includes/script-loader.php on line 14
+[15-Mar-2024 19:26:11 UTC] PHP Warning:  file_get_contents(/wordpress/wp-includes/css/classic-themes.min.css): Failed to open stream: No such file or directory in /wordpress/wp-includes/script-loader.php on line 14
+[15-Mar-2024 19:26:16 UTC] PHP Deprecated:  Hook http_api_transports is deprecated since version 6.4.0 with no alternative available. in /wordpress/wp-includes/functions.php on line 140
+[15-Mar-2024 19:26:26 UTC] PHP Deprecated:  Hook http_api_transports is deprecated since version 6.4.0 with no alternative available. in /wordpress/wp-includes/functions.php on line 140
+[15-Mar-2024 19:26:31 UTC] PHP Deprecated:  Hook http_api_transports is deprecated since version 6.4.0 with no alternative available. in /wordpress/wp-includes/functions.php on line 140
+[15-Mar-2024 19:26:32 UTC] PHP Deprecated:  Hook http_api_transports is deprecated since version 6.4.0 with no alternative available. in /wordpress/wp-includes/functions.php on line 140
+[15-Mar-2024 19:26:34 UTC] PHP Deprecated:  Hook http_api_transports is deprecated since version 6.4.0 with no alternative available. in /wordpress/wp-includes/functions.php on line 140
+[15-Mar-2024 19:26:39 UTC] PHP Deprecated:  Hook http_api_transports is deprecated since version 6.4.0 with no alternative available. in /wordpress/wp-includes/functions.php on line 140
+[15-Mar-2024 19:26:54 UTC] PHP Warning:  file_get_contents(/wordpress/wp-includes/css/classic-themes.min.css): Failed to open stream: No such file or directory in /wordpress/wp-includes/script-loader.php on line 14
+[15-Mar-2024 19:26:56 UTC] PHP Deprecated:  Hook http_api_transports is deprecated since version 6.4.0 with no alternative available. in /wordpress/wp-includes/functions.php on line 140
+[15-Mar-2024 19:31:20 UTC] PHP Warning:  file_get_contents(/wordpress/wp-includes/css/classic-themes.min.css): Failed to open stream: No such file or directory in /wordpress/wp-includes/script-loader.php on line 14
+[15-Mar-2024 19:31:48 UTC] PHP Warning:  file_get_contents(/wordpress/wp-includes/css/classic-themes.min.css): Failed to open stream: No such file or directory in /wordpress/wp-includes/script-loader.php on line 14
+[15-Mar-2024 19:32:21 UTC] PHP Deprecated:  Hook http_api_transports is deprecated since version 6.4.0 with no alternative available. in /wordpress/wp-includes/functions.php on line 140
+[15-Mar-2024 20:36:11 UTC] PHP Deprecated:  Hook http_api_transports is deprecated since version 6.4.0 with no alternative available. in /wordpress/wp-includes/functions.php on line 140
+[15-Mar-2024 20:36:12 UTC] PHP Deprecated:  Hook http_api_transports is deprecated since version 6.4.0 with no alternative available. in /wordpress/wp-includes/functions.php on line 140
+[15-Mar-2024 20:36:23 UTC] PHP Deprecated:  Hook http_api_transports is deprecated since version 6.4.0 with no alternative available. in /wordpress/wp-includes/functions.php on line 140
+[15-Mar-2024 20:36:26 UTC] PHP Deprecated:  Function get_currentuserinfo is deprecated since version 4.5.0! Use wp_get_current_user() instead. in /wordpress/wp-includes/functions.php on line 140
+[15-Mar-2024 20:36:26 UTC] PHP Warning:  Undefined variable $parent_theme_name in /wordpress/wp-content/plugins/one-click-child-theme-main/templates/create_child_form.php on line 18
+[15-Mar-2024 20:36:46 UTC] PHP Deprecated:  Function get_current_theme is deprecated since version 3.4.0! Use wp_get_theme() instead. in /wordpress/wp-includes/functions.php on line 140
+[15-Mar-2024 20:36:46 UTC] PHP Deprecated:  Hook http_api_transports is deprecated since version 6.4.0 with no alternative available. in /wordpress/wp-includes/functions.php on line 140
+[15-Mar-2024 20:36:49 UTC] PHP Warning:  file_get_contents(/wordpress/wp-includes/css/classic-themes.min.css): Failed to open stream: No such file or directory in /wordpress/wp-includes/script-loader.php on line 14
+[15-Mar-2024 20:38:39 UTC] PHP Deprecated:  Hook http_api_transports is deprecated since version 6.4.0 with no alternative available. in /wordpress/wp-includes/functions.php on line 140
+[15-Mar-2024 20:38:49 UTC] PHP Warning:  file_get_contents(/wordpress/wp-includes/css/classic-themes.min.css): Failed to open stream: No such file or directory in /wordpress/wp-includes/script-loader.php on line 14
+[15-Mar-2024 20:38:50 UTC] PHP Deprecated:  Hook http_api_transports is deprecated since version 6.4.0 with no alternative available. in /wordpress/wp-includes/functions.php on line 140
+[15-Mar-2024 20:38:54 UTC] PHP Warning:  file_get_contents(/wordpress/wp-includes/css/classic-themes.min.css): Failed to open stream: No such file or directory in /wordpress/wp-includes/script-loader.php on line 14
+[15-Mar-2024 20:39:22 UTC] PHP Warning:  file_get_contents(/wordpress/wp-includes/css/classic-themes.min.css): Failed to open stream: No such file or directory in /wordpress/wp-includes/script-loader.php on line 14
+[15-Mar-2024 20:40:08 UTC] PHP Warning:  file_get_contents(/wordpress/wp-includes/css/classic-themes.min.css): Failed to open stream: No such file or directory in /wordpress/wp-includes/script-loader.php on line 14
+[15-Mar-2024 20:40:11 UTC] PHP Warning:  file_get_contents(/wordpress/wp-includes/css/classic-themes.min.css): Failed to open stream: No such file or directory in /wordpress/wp-includes/script-loader.php on line 14
+[15-Mar-2024 20:41:14 UTC] PHP Deprecated:  Hook http_api_transports is deprecated since version 6.4.0 with no alternative available. in /wordpress/wp-includes/functions.php on line 140
+[15-Mar-2024 20:56:52 UTC] PHP Deprecated:  Hook http_api_transports is deprecated since version 6.4.0 with no alternative available. in /wordpress/wp-includes/functions.php on line 140
+[15-Mar-2024 20:58:37 UTC] PHP Deprecated:  Hook http_api_transports is deprecated since version 6.4.0 with no alternative available. in /wordpress/wp-includes/functions.php on line 140
+[15-Mar-2024 22:01:32 UTC] PHP Deprecated:  Hook http_api_transports is deprecated since version 6.4.0 with no alternative available. in /wordpress/wp-includes/functions.php on line 140
+[15-Mar-2024 22:01:39 UTC] PHP Warning:  file_get_contents(/wordpress/wp-includes/css/classic-themes.min.css): Failed to open stream: No such file or directory in /wordpress/wp-includes/script-loader.php on line 14
+[15-Mar-2024 22:01:53 UTC] PHP Warning:  file_get_contents(/wordpress/wp-includes/css/classic-themes.min.css): Failed to open stream: No such file or directory in /wordpress/wp-includes/script-loader.php on line 14
+[15-Mar-2024 22:02:02 UTC] PHP Warning:  file_get_contents(/wordpress/wp-includes/css/classic-themes.min.css): Failed to open stream: No such file or directory in /wordpress/wp-includes/script-loader.php on line 14
+[15-Mar-2024 22:03:14 UTC] PHP Warning:  file_get_contents(/wordpress/wp-includes/css/classic-themes.min.css): Failed to open stream: No such file or directory in /wordpress/wp-includes/script-loader.php on line 14
+[15-Mar-2024 22:05:15 UTC] PHP Fatal error:  Out of memory (allocated 29360128) (tried to allocate 2097152 bytes) in /wordpress/wp-content/plugins/ecommerce-product-catalog/functions/shortcodes.php on line 319
+[15-Mar-2024 22:05:19 UTC] PHP Fatal error:  Out of memory (allocated 27262976) (tried to allocate 4096 bytes) in /wordpress/wp-includes/rest-api/endpoints/class-wp-rest-pattern-directory-controller.php on line 2
+[15-Mar-2024 22:05:19 UTC] PHP Fatal error:  Out of memory (allocated 27262976) (tried to allocate 4096 bytes) in /wordpress/wp-includes/functions.php on line 140
+[15-Mar-2024 22:05:19 UTC] PHP Fatal error:  Out of memory (allocated 27262976) (tried to allocate 4096 bytes) in /wordpress/wp-includes/functions.php on line 140
+[15-Mar-2024 22:05:19 UTC] PHP Fatal error:  Out of memory (allocated 27262976) (tried to allocate 4096 bytes) in /wordpress/wp-includes/plugin.php on line 2
+[15-Mar-2024 22:05:20 UTC] PHP Fatal error:  Out of memory (allocated 27262976) (tried to allocate 4096 bytes) in /wordpress/wp-includes/functions.php on line 140
+[15-Mar-2024 22:05:20 UTC] PHP Fatal error:  Out of memory (allocated 27262976) (tried to allocate 4096 bytes) in /wordpress/wp-includes/plugin.php on line 2
+[15-Mar-2024 22:05:20 UTC] PHP Fatal error:  Out of memory (allocated 27262976) (tried to allocate 4096 bytes) in /wordpress/wp-includes/functions.php on line 140
+[15-Mar-2024 22:05:20 UTC] PHP Fatal error:  Out of memory (allocated 27262976) (tried to allocate 4096 bytes) in /wordpress/wp-includes/plugin.php on line 2
+[15-Mar-2024 22:05:21 UTC] PHP Fatal error:  Out of memory (allocated 27262976) (tried to allocate 2097152 bytes) in /wordpress/wp-content/plugins/ecommerce-product-catalog/functions/shortcodes.php on line 332
+[15-Mar-2024 22:05:22 UTC] PHP Fatal error:  Out of memory (allocated 27262976) (tried to allocate 2097152 bytes) in /wordpress/wp-content/plugins/ecommerce-product-catalog/functions/shortcodes.php on line 332
+[15-Mar-2024 22:05:23 UTC] PHP Fatal error:  Out of memory (allocated 27262976) (tried to allocate 2097152 bytes) in /wordpress/wp-content/plugins/ecommerce-product-catalog/functions/shortcodes.php on line 332
+[15-Mar-2024 22:05:27 UTC] PHP Fatal error:  Out of memory (allocated 27262976) (tried to allocate 2097152 bytes) in /wordpress/wp-content/plugins/ecommerce-product-catalog/functions/shortcodes.php on line 332
+[15-Mar-2024 22:05:31 UTC] PHP Fatal error:  Out of memory (allocated 27262976) (tried to allocate 2097152 bytes) in /wordpress/wp-content/plugins/ecommerce-product-catalog/functions/shortcodes.php on line 332
+[15-Mar-2024 22:05:38 UTC] PHP Fatal error:  Out of memory (allocated 27262976) (tried to allocate 2097152 bytes) in /wordpress/wp-content/plugins/ecommerce-product-catalog/functions/shortcodes.php on line 332
+[15-Mar-2024 22:05:41 UTC] PHP Fatal error:  Out of memory (allocated 27262976) (tried to allocate 2097152 bytes) in /wordpress/wp-content/plugins/ecommerce-product-catalog/functions/shortcodes.php on line 332
+[15-Mar-2024 22:05:44 UTC] PHP Fatal error:  Out of memory (allocated 27262976) (tried to allocate 2097152 bytes) in /wordpress/wp-content/plugins/ecommerce-product-catalog/functions/shortcodes.php on line 332
+[15-Mar-2024 22:05:52 UTC] PHP Deprecated:  Hook http_api_transports is deprecated since version 6.4.0 with no alternative available. in /wordpress/wp-includes/functions.php on line 140
+[15-Mar-2024 22:08:22 UTC] PHP Warning:  file_get_contents(/wordpress/wp-includes/css/classic-themes.min.css): Failed to open stream: No such file or directory in /wordpress/wp-includes/script-loader.php on line 14
+[15-Mar-2024 22:08:23 UTC] PHP Deprecated:  Hook http_api_transports is deprecated since version 6.4.0 with no alternative available. in /wordpress/wp-includes/functions.php on line 140
+[15-Mar-2024 22:18:16 UTC] PHP Warning:  file_get_contents(/wordpress/wp-includes/css/classic-themes.min.css): Failed to open stream: No such file or directory in /wordpress/wp-includes/script-loader.php on line 14
+[15-Mar-2024 22:18:24 UTC] PHP Warning:  file_get_contents(/wordpress/wp-includes/css/classic-themes.min.css): Failed to open stream: No such file or directory in /wordpress/wp-includes/script-loader.php on line 14
+[15-Mar-2024 22:18:42 UTC] PHP Warning:  file_get_contents(/wordpress/wp-includes/css/classic-themes.min.css): Failed to open stream: No such file or directory in /wordpress/wp-includes/script-loader.php on line 14
+[15-Mar-2024 22:18:43 UTC] PHP Warning:  file_get_contents(/wordpress/wp-includes/css/classic-themes.min.css): Failed to open stream: No such file or directory in /wordpress/wp-includes/script-loader.php on line 14
+[15-Mar-2024 22:21:31 UTC] PHP Warning:  Undefined array key "width" in /wordpress/wp-admin/includes/image.php on line 2
+[15-Mar-2024 22:21:31 UTC] PHP Warning:  Undefined array key "height" in /wordpress/wp-admin/includes/image.php on line 2
+[15-Mar-2024 22:21:32 UTC] PHP Warning:  Undefined array key "width" in /wordpress/wp-admin/includes/image.php on line 2
+[15-Mar-2024 22:21:32 UTC] PHP Warning:  Undefined array key "height" in /wordpress/wp-admin/includes/image.php on line 2
+[15-Mar-2024 22:21:33 UTC] PHP Warning:  Undefined array key "width" in /wordpress/wp-admin/includes/image.php on line 2
+[15-Mar-2024 22:21:33 UTC] PHP Warning:  Undefined array key "height" in /wordpress/wp-admin/includes/image.php on line 2
+[15-Mar-2024 22:21:33 UTC] PHP Warning:  Undefined array key "width" in /wordpress/wp-admin/includes/image.php on line 2
+[15-Mar-2024 22:21:33 UTC] PHP Warning:  Undefined array key "height" in /wordpress/wp-admin/includes/image.php on line 2
+[15-Mar-2024 22:21:33 UTC] PHP Warning:  Undefined array key "width" in /wordpress/wp-admin/includes/image.php on line 2
+[15-Mar-2024 22:21:33 UTC] PHP Warning:  Undefined array key "height" in /wordpress/wp-admin/includes/image.php on line 2
+[15-Mar-2024 22:21:33 UTC] PHP Warning:  Undefined array key "width" in /wordpress/wp-admin/includes/image.php on line 2
+[15-Mar-2024 22:21:33 UTC] PHP Warning:  Undefined array key "height" in /wordpress/wp-admin/includes/image.php on line 2
+[15-Mar-2024 22:21:34 UTC] PHP Warning:  Undefined array key "width" in /wordpress/wp-admin/includes/image.php on line 2
+[15-Mar-2024 22:21:34 UTC] PHP Warning:  Undefined array key "height" in /wordpress/wp-admin/includes/image.php on line 2
+[15-Mar-2024 22:21:34 UTC] PHP Warning:  Undefined array key "width" in /wordpress/wp-admin/includes/image.php on line 2
+[15-Mar-2024 22:21:34 UTC] PHP Warning:  Undefined array key "height" in /wordpress/wp-admin/includes/image.php on line 2
+[15-Mar-2024 22:21:34 UTC] PHP Warning:  Undefined array key "width" in /wordpress/wp-admin/includes/image.php on line 2
+[15-Mar-2024 22:21:34 UTC] PHP Warning:  Undefined array key "height" in /wordpress/wp-admin/includes/image.php on line 2
+[15-Mar-2024 22:21:38 UTC] PHP Warning:  Undefined array key "width" in /wordpress/wp-admin/includes/image.php on line 2
+[15-Mar-2024 22:21:38 UTC] PHP Warning:  Undefined array key "height" in /wordpress/wp-admin/includes/image.php on line 2
+[15-Mar-2024 22:21:39 UTC] PHP Warning:  Undefined array key "width" in /wordpress/wp-admin/includes/image.php on line 2
+[15-Mar-2024 22:21:39 UTC] PHP Warning:  Undefined array key "height" in /wordpress/wp-admin/includes/image.php on line 2
+[15-Mar-2024 22:21:39 UTC] PHP Warning:  Undefined array key "width" in /wordpress/wp-admin/includes/image.php on line 2
+[15-Mar-2024 22:21:39 UTC] PHP Warning:  Undefined array key "height" in /wordpress/wp-admin/includes/image.php on line 2
+[15-Mar-2024 22:21:39 UTC] PHP Warning:  Undefined array key "width" in /wordpress/wp-admin/includes/image.php on line 2
+[15-Mar-2024 22:21:39 UTC] PHP Warning:  Undefined array key "height" in /wordpress/wp-admin/includes/image.php on line 2
+[15-Mar-2024 22:21:39 UTC] PHP Warning:  Undefined array key "width" in /wordpress/wp-admin/includes/image.php on line 2
+[15-Mar-2024 22:21:39 UTC] PHP Warning:  Undefined array key "height" in /wordpress/wp-admin/includes/image.php on line 2
+[15-Mar-2024 22:22:02 UTC] PHP Warning:  file_get_contents(/wordpress/wp-includes/css/classic-themes.min.css): Failed to open stream: No such file or directory in /wordpress/wp-includes/script-loader.php on line 14
+[15-Mar-2024 22:22:37 UTC] PHP Fatal error:  Uncaught Error: [] operator not supported for strings in /wordpress/wp-content/plugins/ecommerce-product-catalog/includes/settings/tooltips.php:218
+Stack trace:
+#0 /wordpress/wp-includes/class-wp-hook.php(3): implecode_ajax_wp_tooltip_hide('')
+#1 /wordpress/wp-includes/class-wp-hook.php(3): WP_Hook->apply_filters('', Array)
+#2 /wordpress/wp-includes/plugin.php(2): WP_Hook->do_action(Array)
+#3 /wordpress/wp-admin/admin-ajax.php(2): do_action('wp_ajax_impleco...')
+#4 {main}
+  thrown in /wordpress/wp-content/plugins/ecommerce-product-catalog/includes/settings/tooltips.php on line 218
+[15-Mar-2024 22:22:43 UTC] PHP Warning:  file_get_contents(/wordpress/wp-includes/css/classic-themes.min.css): Failed to open stream: No such file or directory in /wordpress/wp-includes/script-loader.php on line 14
+[15-Mar-2024 22:24:16 UTC] PHP Warning:  file_get_contents(/wordpress/wp-includes/css/classic-themes.min.css): Failed to open stream: No such file or directory in /wordpress/wp-includes/script-loader.php on line 14
+[15-Mar-2024 22:25:33 UTC] PHP Warning:  file_get_contents(/wordpress/wp-includes/css/classic-themes.min.css): Failed to open stream: No such file or directory in /wordpress/wp-includes/script-loader.php on line 14
+[15-Mar-2024 22:28:01 UTC] PHP Warning:  Undefined array key "width" in /wordpress/wp-admin/includes/image.php on line 2
+[15-Mar-2024 22:28:01 UTC] PHP Warning:  Undefined array key "height" in /wordpress/wp-admin/includes/image.php on line 2
+[15-Mar-2024 22:28:51 UTC] PHP Warning:  file_get_contents(/wordpress/wp-includes/css/classic-themes.min.css): Failed to open stream: No such file or directory in /wordpress/wp-includes/script-loader.php on line 14
+[15-Mar-2024 22:29:53 UTC] PHP Warning:  file_get_contents(/wordpress/wp-includes/css/classic-themes.min.css): Failed to open stream: No such file or directory in /wordpress/wp-includes/script-loader.php on line 14
+[15-Mar-2024 22:30:05 UTC] PHP Warning:  file_get_contents(/wordpress/wp-includes/css/classic-themes.min.css): Failed to open stream: No such file or directory in /wordpress/wp-includes/script-loader.php on line 14
+[15-Mar-2024 22:31:47 UTC] PHP Warning:  file_get_contents(/wordpress/wp-includes/css/classic-themes.min.css): Failed to open stream: No such file or directory in /wordpress/wp-includes/script-loader.php on line 14
+[15-Mar-2024 22:32:31 UTC] PHP Warning:  file_get_contents(/wordpress/wp-includes/css/classic-themes.min.css): Failed to open stream: No such file or directory in /wordpress/wp-includes/script-loader.php on line 14
+[15-Mar-2024 22:32:35 UTC] PHP Warning:  file_get_contents(/wordpress/wp-includes/css/classic-themes.min.css): Failed to open stream: No such file or directory in /wordpress/wp-includes/script-loader.php on line 14
+[15-Mar-2024 22:32:37 UTC] PHP Warning:  Undefined array key "width" in /wordpress/wp-admin/includes/image.php on line 2
+[15-Mar-2024 22:32:37 UTC] PHP Warning:  Undefined array key "height" in /wordpress/wp-admin/includes/image.php on line 2
+[15-Mar-2024 22:32:37 UTC] PHP Warning:  Undefined array key "width" in /wordpress/wp-admin/includes/image.php on line 2
+[15-Mar-2024 22:32:37 UTC] PHP Warning:  Undefined array key "height" in /wordpress/wp-admin/includes/image.php on line 2
+[15-Mar-2024 22:32:37 UTC] PHP Warning:  Undefined array key "width" in /wordpress/wp-admin/includes/image.php on line 2
+[15-Mar-2024 22:32:37 UTC] PHP Warning:  Undefined array key "height" in /wordpress/wp-admin/includes/image.php on line 2
+[15-Mar-2024 22:32:37 UTC] PHP Warning:  Undefined array key "width" in /wordpress/wp-admin/includes/image.php on line 2
+[15-Mar-2024 22:32:37 UTC] PHP Warning:  Undefined array key "height" in /wordpress/wp-admin/includes/image.php on line 2
+[15-Mar-2024 22:32:52 UTC] PHP Warning:  file_get_contents(/wordpress/wp-includes/css/classic-themes.min.css): Failed to open stream: No such file or directory in /wordpress/wp-includes/script-loader.php on line 14
+[15-Mar-2024 22:32:57 UTC] PHP Warning:  file_get_contents(/wordpress/wp-includes/css/classic-themes.min.css): Failed to open stream: No such file or directory in /wordpress/wp-includes/script-loader.php on line 14
+[15-Mar-2024 22:33:04 UTC] PHP Warning:  file_get_contents(/wordpress/wp-includes/css/classic-themes.min.css): Failed to open stream: No such file or directory in /wordpress/wp-includes/script-loader.php on line 14
+[15-Mar-2024 22:38:54 UTC] PHP Warning:  file_get_contents(/wordpress/wp-includes/css/classic-themes.min.css): Failed to open stream: No such file or directory in /wordpress/wp-includes/script-loader.php on line 14
+[15-Mar-2024 22:39:19 UTC] PHP Deprecated:  Hook http_api_transports is deprecated since version 6.4.0 with no alternative available. in /wordpress/wp-includes/functions.php on line 140
+[15-Mar-2024 22:39:27 UTC] PHP Warning:  file_get_contents(/wordpress/wp-includes/css/classic-themes.min.css): Failed to open stream: No such file or directory in /wordpress/wp-includes/script-loader.php on line 14
+[15-Mar-2024 22:39:41 UTC] PHP Warning:  file_get_contents(/wordpress/wp-includes/css/classic-themes.min.css): Failed to open stream: No such file or directory in /wordpress/wp-includes/script-loader.php on line 14
+[15-Mar-2024 22:40:38 UTC] PHP Warning:  file_get_contents(/wordpress/wp-includes/css/classic-themes.min.css): Failed to open stream: No such file or directory in /wordpress/wp-includes/script-loader.php on line 14
+[15-Mar-2024 22:41:40 UTC] PHP Warning:  file_get_contents(/wordpress/wp-includes/css/classic-themes.min.css): Failed to open stream: No such file or directory in /wordpress/wp-includes/script-loader.php on line 14
+[15-Mar-2024 22:42:10 UTC] PHP Warning:  file_get_contents(/wordpress/wp-includes/css/classic-themes.min.css): Failed to open stream: No such file or directory in /wordpress/wp-includes/script-loader.php on line 14
+[15-Mar-2024 22:42:13 UTC] PHP Warning:  file_get_contents(/wordpress/wp-includes/css/classic-themes.min.css): Failed to open stream: No such file or directory in /wordpress/wp-includes/script-loader.php on line 14
+[15-Mar-2024 22:43:32 UTC] PHP Warning:  file_get_contents(/wordpress/wp-includes/css/classic-themes.min.css): Failed to open stream: No such file or directory in /wordpress/wp-includes/script-loader.php on line 14
+[15-Mar-2024 22:44:03 UTC] PHP Warning:  file_get_contents(/wordpress/wp-includes/css/classic-themes.min.css): Failed to open stream: No such file or directory in /wordpress/wp-includes/script-loader.php on line 14
+[15-Mar-2024 22:44:12 UTC] PHP Warning:  file_get_contents(/wordpress/wp-includes/css/classic-themes.min.css): Failed to open stream: No such file or directory in /wordpress/wp-includes/script-loader.php on line 14
+[15-Mar-2024 22:44:17 UTC] PHP Warning:  file_get_contents(/wordpress/wp-includes/css/classic-themes.min.css): Failed to open stream: No such file or directory in /wordpress/wp-includes/script-loader.php on line 14
+[15-Mar-2024 22:47:27 UTC] PHP Warning:  file_get_contents(/wordpress/wp-includes/css/classic-themes.min.css): Failed to open stream: No such file or directory in /wordpress/wp-includes/script-loader.php on line 14
+[15-Mar-2024 22:47:51 UTC] PHP Warning:  file_get_contents(/wordpress/wp-includes/css/classic-themes.min.css): Failed to open stream: No such file or directory in /wordpress/wp-includes/script-loader.php on line 14
+[15-Mar-2024 22:48:20 UTC] PHP Warning:  file_get_contents(/wordpress/wp-includes/css/classic-themes.min.css): Failed to open stream: No such file or directory in /wordpress/wp-includes/script-loader.php on line 14
+[15-Mar-2024 22:49:39 UTC] PHP Warning:  file_get_contents(/wordpress/wp-includes/css/classic-themes.min.css): Failed to open stream: No such file or directory in /wordpress/wp-includes/script-loader.php on line 14
+[15-Mar-2024 22:51:34 UTC] PHP Warning:  file_get_contents(/wordpress/wp-includes/css/classic-themes.min.css): Failed to open stream: No such file or directory in /wordpress/wp-includes/script-loader.php on line 14
+[15-Mar-2024 22:52:33 UTC] PHP Warning:  file_get_contents(/wordpress/wp-includes/css/classic-themes.min.css): Failed to open stream: No such file or directory in /wordpress/wp-includes/script-loader.php on line 14
+[15-Mar-2024 22:54:50 UTC] PHP Warning:  Undefined array key "width" in /wordpress/wp-admin/includes/image.php on line 2
+[15-Mar-2024 22:54:50 UTC] PHP Warning:  Undefined array key "height" in /wordpress/wp-admin/includes/image.php on line 2
+[15-Mar-2024 22:54:51 UTC] PHP Warning:  Undefined array key "width" in /wordpress/wp-admin/includes/image.php on line 2
+[15-Mar-2024 22:54:51 UTC] PHP Warning:  Undefined array key "height" in /wordpress/wp-admin/includes/image.php on line 2
+[15-Mar-2024 22:54:52 UTC] PHP Warning:  Undefined array key "width" in /wordpress/wp-admin/includes/image.php on line 2
+[15-Mar-2024 22:54:52 UTC] PHP Warning:  Undefined array key "height" in /wordpress/wp-admin/includes/image.php on line 2
+[15-Mar-2024 22:54:52 UTC] PHP Warning:  Undefined array key "width" in /wordpress/wp-admin/includes/image.php on line 2
+[15-Mar-2024 22:54:52 UTC] PHP Warning:  Undefined array key "height" in /wordpress/wp-admin/includes/image.php on line 2
+[15-Mar-2024 22:54:52 UTC] PHP Warning:  Undefined array key "width" in /wordpress/wp-admin/includes/image.php on line 2
+[15-Mar-2024 22:54:52 UTC] PHP Warning:  Undefined array key "height" in /wordpress/wp-admin/includes/image.php on line 2
+[15-Mar-2024 22:54:52 UTC] PHP Warning:  Undefined array key "width" in /wordpress/wp-admin/includes/image.php on line 2
+[15-Mar-2024 22:54:52 UTC] PHP Warning:  Undefined array key "height" in /wordpress/wp-admin/includes/image.php on line 2
+[15-Mar-2024 22:54:52 UTC] PHP Warning:  Undefined array key "width" in /wordpress/wp-admin/includes/image.php on line 2
+[15-Mar-2024 22:54:52 UTC] PHP Warning:  Undefined array key "height" in /wordpress/wp-admin/includes/image.php on line 2
+[15-Mar-2024 22:54:52 UTC] PHP Warning:  Undefined array key "width" in /wordpress/wp-admin/includes/image.php on line 2
+[15-Mar-2024 22:54:52 UTC] PHP Warning:  Undefined array key "height" in /wordpress/wp-admin/includes/image.php on line 2
+[15-Mar-2024 22:54:52 UTC] PHP Warning:  Undefined array key "width" in /wordpress/wp-admin/includes/image.php on line 2
+[15-Mar-2024 22:54:52 UTC] PHP Warning:  Undefined array key "height" in /wordpress/wp-admin/includes/image.php on line 2
+[15-Mar-2024 22:55:30 UTC] PHP Warning:  Undefined array key "width" in /wordpress/wp-admin/includes/image.php on line 2
+[15-Mar-2024 22:55:30 UTC] PHP Warning:  Undefined array key "height" in /wordpress/wp-admin/includes/image.php on line 2
+[15-Mar-2024 22:55:30 UTC] PHP Warning:  Undefined array key "width" in /wordpress/wp-admin/includes/image.php on line 2
+[15-Mar-2024 22:55:30 UTC] PHP Warning:  Undefined array key "height" in /wordpress/wp-admin/includes/image.php on line 2
+[15-Mar-2024 22:55:30 UTC] PHP Warning:  Undefined array key "width" in /wordpress/wp-admin/includes/image.php on line 2
+[15-Mar-2024 22:55:30 UTC] PHP Warning:  Undefined array key "height" in /wordpress/wp-admin/includes/image.php on line 2
+[15-Mar-2024 22:55:30 UTC] PHP Warning:  Undefined array key "width" in /wordpress/wp-admin/includes/image.php on line 2
+[15-Mar-2024 22:55:30 UTC] PHP Warning:  Undefined array key "height" in /wordpress/wp-admin/includes/image.php on line 2
+[15-Mar-2024 22:55:30 UTC] PHP Warning:  Undefined array key "width" in /wordpress/wp-admin/includes/image.php on line 2
+[15-Mar-2024 22:55:30 UTC] PHP Warning:  Undefined array key "height" in /wordpress/wp-admin/includes/image.php on line 2
+[15-Mar-2024 22:58:47 UTC] PHP Warning:  file_get_contents(/wordpress/wp-includes/css/classic-themes.min.css): Failed to open stream: No such file or directory in /wordpress/wp-includes/script-loader.php on line 14
+[15-Mar-2024 22:59:16 UTC] PHP Warning:  file_get_contents(/wordpress/wp-includes/css/classic-themes.min.css): Failed to open stream: No such file or directory in /wordpress/wp-includes/script-loader.php on line 14
+[15-Mar-2024 22:59:35 UTC] PHP Warning:  file_get_contents(/wordpress/wp-includes/css/classic-themes.min.css): Failed to open stream: No such file or directory in /wordpress/wp-includes/script-loader.php on line 14
+[15-Mar-2024 23:00:02 UTC] PHP Warning:  file_get_contents(/wordpress/wp-includes/css/classic-themes.min.css): Failed to open stream: No such file or directory in /wordpress/wp-includes/script-loader.php on line 14
+[15-Mar-2024 23:01:23 UTC] PHP Warning:  file_get_contents(/wordpress/wp-includes/css/classic-themes.min.css): Failed to open stream: No such file or directory in /wordpress/wp-includes/script-loader.php on line 14
+[15-Mar-2024 23:01:32 UTC] PHP Deprecated:  Hook http_api_transports is deprecated since version 6.4.0 with no alternative available. in /wordpress/wp-includes/functions.php on line 140
+[15-Mar-2024 23:01:41 UTC] PHP Deprecated:  Hook http_api_transports is deprecated since version 6.4.0 with no alternative available. in /wordpress/wp-includes/functions.php on line 140
+[15-Mar-2024 23:01:45 UTC] PHP Warning:  file_get_contents(/wordpress/wp-includes/css/classic-themes.min.css): Failed to open stream: No such file or directory in /wordpress/wp-includes/script-loader.php on line 14
+[15-Mar-2024 23:01:55 UTC] PHP Warning:  file_get_contents(/wordpress/wp-includes/css/classic-themes.min.css): Failed to open stream: No such file or directory in /wordpress/wp-includes/script-loader.php on line 14
+[15-Mar-2024 23:02:46 UTC] PHP Warning:  file_get_contents(/wordpress/wp-includes/css/classic-themes.min.css): Failed to open stream: No such file or directory in /wordpress/wp-includes/script-loader.php on line 14
+[15-Mar-2024 23:02:57 UTC] PHP Warning:  file_get_contents(/wordpress/wp-includes/css/classic-themes.min.css): Failed to open stream: No such file or directory in /wordpress/wp-includes/script-loader.php on line 14
+[15-Mar-2024 23:02:59 UTC] PHP Warning:  Undefined array key "width" in /wordpress/wp-admin/includes/image.php on line 2
+[15-Mar-2024 23:02:59 UTC] PHP Warning:  Undefined array key "height" in /wordpress/wp-admin/includes/image.php on line 2
+[15-Mar-2024 23:02:59 UTC] PHP Warning:  Undefined array key "width" in /wordpress/wp-admin/includes/image.php on line 2
+[15-Mar-2024 23:02:59 UTC] PHP Warning:  Undefined array key "height" in /wordpress/wp-admin/includes/image.php on line 2
+[15-Mar-2024 23:02:59 UTC] PHP Warning:  Undefined array key "width" in /wordpress/wp-admin/includes/image.php on line 2
+[15-Mar-2024 23:02:59 UTC] PHP Warning:  Undefined array key "height" in /wordpress/wp-admin/includes/image.php on line 2
+[15-Mar-2024 23:02:59 UTC] PHP Warning:  Undefined array key "width" in /wordpress/wp-admin/includes/image.php on line 2
+[15-Mar-2024 23:02:59 UTC] PHP Warning:  Undefined array key "height" in /wordpress/wp-admin/includes/image.php on line 2
+[15-Mar-2024 23:03:45 UTC] PHP Warning:  file_get_contents(/wordpress/wp-includes/css/classic-themes.min.css): Failed to open stream: No such file or directory in /wordpress/wp-includes/script-loader.php on line 14
+[15-Mar-2024 23:03:57 UTC] PHP Warning:  file_get_contents(/wordpress/wp-includes/css/classic-themes.min.css): Failed to open stream: No such file or directory in /wordpress/wp-includes/script-loader.php on line 14
+[15-Mar-2024 23:04:14 UTC] PHP Warning:  file_get_contents(/wordpress/wp-includes/css/classic-themes.min.css): Failed to open stream: No such file or directory in /wordpress/wp-includes/script-loader.php on line 14
+[15-Mar-2024 23:04:16 UTC] PHP Warning:  Undefined array key "width" in /wordpress/wp-admin/includes/image.php on line 2
+[15-Mar-2024 23:04:16 UTC] PHP Warning:  Undefined array key "height" in /wordpress/wp-admin/includes/image.php on line 2
+[15-Mar-2024 23:04:16 UTC] PHP Warning:  Undefined array key "width" in /wordpress/wp-admin/includes/image.php on line 2
+[15-Mar-2024 23:04:16 UTC] PHP Warning:  Undefined array key "height" in /wordpress/wp-admin/includes/image.php on line 2
+[15-Mar-2024 23:04:16 UTC] PHP Warning:  Undefined array key "width" in /wordpress/wp-admin/includes/image.php on line 2
+[15-Mar-2024 23:04:16 UTC] PHP Warning:  Undefined array key "height" in /wordpress/wp-admin/includes/image.php on line 2
+[15-Mar-2024 23:04:16 UTC] PHP Warning:  Undefined array key "width" in /wordpress/wp-admin/includes/image.php on line 2
+[15-Mar-2024 23:04:16 UTC] PHP Warning:  Undefined array key "height" in /wordpress/wp-admin/includes/image.php on line 2
+[15-Mar-2024 23:04:33 UTC] PHP Warning:  file_get_contents(/wordpress/wp-includes/css/classic-themes.min.css): Failed to open stream: No such file or directory in /wordpress/wp-includes/script-loader.php on line 14
+[15-Mar-2024 23:05:09 UTC] PHP Warning:  file_get_contents(/wordpress/wp-includes/css/classic-themes.min.css): Failed to open stream: No such file or directory in /wordpress/wp-includes/script-loader.php on line 14
+[15-Mar-2024 23:05:12 UTC] PHP Warning:  file_get_contents(/wordpress/wp-includes/css/classic-themes.min.css): Failed to open stream: No such file or directory in /wordpress/wp-includes/script-loader.php on line 14
+[15-Mar-2024 23:05:13 UTC] PHP Warning:  Undefined array key "width" in /wordpress/wp-admin/includes/image.php on line 2
+[15-Mar-2024 23:05:13 UTC] PHP Warning:  Undefined array key "height" in /wordpress/wp-admin/includes/image.php on line 2
+[15-Mar-2024 23:05:13 UTC] PHP Warning:  Undefined array key "width" in /wordpress/wp-admin/includes/image.php on line 2
+[15-Mar-2024 23:05:13 UTC] PHP Warning:  Undefined array key "height" in /wordpress/wp-admin/includes/image.php on line 2
+[15-Mar-2024 23:05:13 UTC] PHP Warning:  Undefined array key "width" in /wordpress/wp-admin/includes/image.php on line 2
+[15-Mar-2024 23:05:13 UTC] PHP Warning:  Undefined array key "height" in /wordpress/wp-admin/includes/image.php on line 2
+[15-Mar-2024 23:05:13 UTC] PHP Warning:  Undefined array key "width" in /wordpress/wp-admin/includes/image.php on line 2
+[15-Mar-2024 23:05:13 UTC] PHP Warning:  Undefined array key "height" in /wordpress/wp-admin/includes/image.php on line 2
+[15-Mar-2024 23:06:33 UTC] PHP Warning:  file_get_contents(/wordpress/wp-includes/css/classic-themes.min.css): Failed to open stream: No such file or directory in /wordpress/wp-includes/script-loader.php on line 14
+[15-Mar-2024 23:06:37 UTC] PHP Warning:  file_get_contents(/wordpress/wp-includes/css/classic-themes.min.css): Failed to open stream: No such file or directory in /wordpress/wp-includes/script-loader.php on line 14
+[15-Mar-2024 23:07:03 UTC] PHP Warning:  file_get_contents(/wordpress/wp-includes/css/classic-themes.min.css): Failed to open stream: No such file or directory in /wordpress/wp-includes/script-loader.php on line 14
+[15-Mar-2024 23:07:49 UTC] PHP Deprecated:  Hook http_api_transports is deprecated since version 6.4.0 with no alternative available. in /wordpress/wp-includes/functions.php on line 140
+[15-Mar-2024 23:12:08 UTC] PHP Warning:  file_get_contents(/wordpress/wp-includes/css/classic-themes.min.css): Failed to open stream: No such file or directory in /wordpress/wp-includes/script-loader.php on line 14
+[15-Mar-2024 23:12:58 UTC] PHP Deprecated:  Hook http_api_transports is deprecated since version 6.4.0 with no alternative available. in /wordpress/wp-includes/functions.php on line 140
+[15-Mar-2024 23:14:45 UTC] PHP Deprecated:  Hook http_api_transports is deprecated since version 6.4.0 with no alternative available. in /wordpress/wp-includes/functions.php on line 140
+[15-Mar-2024 23:15:06 UTC] PHP Deprecated:  Hook http_api_transports is deprecated since version 6.4.0 with no alternative available. in /wordpress/wp-includes/functions.php on line 140
+[15-Mar-2024 23:16:58 UTC] PHP Warning:  file_get_contents(/wordpress/wp-includes/css/classic-themes.min.css): Failed to open stream: No such file or directory in /wordpress/wp-includes/script-loader.php on line 14
+[15-Mar-2024 23:16:59 UTC] PHP Deprecated:  Hook http_api_transports is deprecated since version 6.4.0 with no alternative available. in /wordpress/wp-includes/functions.php on line 140
+[15-Mar-2024 23:20:49 UTC] PHP Warning:  file_get_contents(/wordpress/wp-includes/css/classic-themes.min.css): Failed to open stream: No such file or directory in /wordpress/wp-includes/script-loader.php on line 14
+[15-Mar-2024 23:22:14 UTC] PHP Warning:  file_get_contents(/wordpress/wp-includes/css/classic-themes.min.css): Failed to open stream: No such file or directory in /wordpress/wp-includes/script-loader.php on line 14
+[15-Mar-2024 23:25:36 UTC] PHP Warning:  file_get_contents(/wordpress/wp-includes/css/classic-themes.min.css): Failed to open stream: No such file or directory in /wordpress/wp-includes/script-loader.php on line 14
+[15-Mar-2024 23:27:01 UTC] PHP Notice: A feed could not be found at `https://wordpress.org/`; the status code is `400` and content-type is `text/plain` in /wordpress/wp-includes/class-simplepie.php on line 2
+[15-Mar-2024 23:27:42 UTC] PHP Warning:  file_get_contents(/wordpress/wp-includes/css/classic-themes.min.css): Failed to open stream: No such file or directory in /wordpress/wp-includes/script-loader.php on line 14
+[15-Mar-2024 23:29:45 UTC] PHP Warning:  file_get_contents(/wordpress/wp-includes/css/classic-themes.min.css): Failed to open stream: No such file or directory in /wordpress/wp-includes/script-loader.php on line 14
+[15-Mar-2024 23:30:24 UTC] PHP Warning:  file_get_contents(/wordpress/wp-includes/css/classic-themes.min.css): Failed to open stream: No such file or directory in /wordpress/wp-includes/script-loader.php on line 14
+[15-Mar-2024 23:30:34 UTC] PHP Deprecated:  Hook http_api_transports is deprecated since version 6.4.0 with no alternative available. in /wordpress/wp-includes/functions.php on line 140
+[15-Mar-2024 23:31:32 UTC] PHP Warning:  file_get_contents(/wordpress/wp-includes/css/classic-themes.min.css): Failed to open stream: No such file or directory in /wordpress/wp-includes/script-loader.php on line 14
+[15-Mar-2024 23:34:44 UTC] PHP Deprecated:  Hook http_api_transports is deprecated since version 6.4.0 with no alternative available. in /wordpress/wp-includes/functions.php on line 140
+[15-Mar-2024 23:39:40 UTC] PHP Deprecated:  Hook http_api_transports is deprecated since version 6.4.0 with no alternative available. in /wordpress/wp-includes/functions.php on line 140
+[15-Mar-2024 23:42:24 UTC] PHP Warning:  file_get_contents(/wordpress/wp-includes/css/classic-themes.min.css): Failed to open stream: No such file or directory in /wordpress/wp-includes/script-loader.php on line 14
+[15-Mar-2024 23:42:46 UTC] PHP Warning:  file_get_contents(/wordpress/wp-includes/css/classic-themes.min.css): Failed to open stream: No such file or directory in /wordpress/wp-includes/script-loader.php on line 14
+[15-Mar-2024 23:44:39 UTC] PHP Deprecated:  Hook http_api_transports is deprecated since version 6.4.0 with no alternative available. in /wordpress/wp-includes/functions.php on line 140
+[15-Mar-2024 23:44:46 UTC] PHP Deprecated:  Hook http_api_transports is deprecated since version 6.4.0 with no alternative available. in /wordpress/wp-includes/functions.php on line 140
+[15-Mar-2024 23:44:59 UTC] PHP Deprecated:  Hook http_api_transports is deprecated since version 6.4.0 with no alternative available. in /wordpress/wp-includes/functions.php on line 140
+[15-Mar-2024 23:45:01 UTC] PHP Deprecated:  Hook http_api_transports is deprecated since version 6.4.0 with no alternative available. in /wordpress/wp-includes/functions.php on line 140
+[15-Mar-2024 23:45:07 UTC] PHP Deprecated:  Hook http_api_transports is deprecated since version 6.4.0 with no alternative available. in /wordpress/wp-includes/functions.php on line 140
+[15-Mar-2024 23:45:12 UTC] PHP Deprecated:  Hook http_api_transports is deprecated since version 6.4.0 with no alternative available. in /wordpress/wp-includes/functions.php on line 140
+[15-Mar-2024 23:45:14 UTC] PHP Deprecated:  Hook http_api_transports is deprecated since version 6.4.0 with no alternative available. in /wordpress/wp-includes/functions.php on line 140
+[15-Mar-2024 23:45:16 UTC] PHP Deprecated:  Hook http_api_transports is deprecated since version 6.4.0 with no alternative available. in /wordpress/wp-includes/functions.php on line 140
+[15-Mar-2024 23:45:24 UTC] PHP Deprecated:  Hook http_api_transports is deprecated since version 6.4.0 with no alternative available. in /wordpress/wp-includes/functions.php on line 140
+[15-Mar-2024 23:45:27 UTC] PHP Deprecated:  Hook http_api_transports is deprecated since version 6.4.0 with no alternative available. in /wordpress/wp-includes/functions.php on line 140
+[15-Mar-2024 23:45:29 UTC] PHP Deprecated:  Hook http_api_transports is deprecated since version 6.4.0 with no alternative available. in /wordpress/wp-includes/functions.php on line 140
+[15-Mar-2024 23:45:32 UTC] PHP Deprecated:  Hook http_api_transports is deprecated since version 6.4.0 with no alternative available. in /wordpress/wp-includes/functions.php on line 140
+[15-Mar-2024 23:45:37 UTC] PHP Deprecated:  Hook http_api_transports is deprecated since version 6.4.0 with no alternative available. in /wordpress/wp-includes/functions.php on line 140
+[15-Mar-2024 23:45:49 UTC] PHP Deprecated:  Hook http_api_transports is deprecated since version 6.4.0 with no alternative available. in /wordpress/wp-includes/functions.php on line 140
+[15-Mar-2024 23:45:51 UTC] PHP Deprecated:  Hook http_api_transports is deprecated since version 6.4.0 with no alternative available. in /wordpress/wp-includes/functions.php on line 140
+[15-Mar-2024 23:45:53 UTC] PHP Deprecated:  Hook http_api_transports is deprecated since version 6.4.0 with no alternative available. in /wordpress/wp-includes/functions.php on line 140
+[15-Mar-2024 23:45:56 UTC] PHP Deprecated:  Hook http_api_transports is deprecated since version 6.4.0 with no alternative available. in /wordpress/wp-includes/functions.php on line 140
+[15-Mar-2024 23:45:58 UTC] PHP Deprecated:  Hook http_api_transports is deprecated since version 6.4.0 with no alternative available. in /wordpress/wp-includes/functions.php on line 140
+[15-Mar-2024 23:46:54 UTC] PHP Deprecated:  Hook http_api_transports is deprecated since version 6.4.0 with no alternative available. in /wordpress/wp-includes/functions.php on line 140
+[15-Mar-2024 23:46:56 UTC] PHP Deprecated:  Hook http_api_transports is deprecated since version 6.4.0 with no alternative available. in /wordpress/wp-includes/functions.php on line 140
+[15-Mar-2024 23:47:00 UTC] PHP Deprecated:  Hook http_api_transports is deprecated since version 6.4.0 with no alternative available. in /wordpress/wp-includes/functions.php on line 140
+[15-Mar-2024 23:55:01 UTC] PHP Deprecated:  Hook http_api_transports is deprecated since version 6.4.0 with no alternative available. in /wordpress/wp-includes/functions.php on line 140
+[15-Mar-2024 23:56:51 UTC] PHP Deprecated:  Hook http_api_transports is deprecated since version 6.4.0 with no alternative available. in /wordpress/wp-includes/functions.php on line 140
+[15-Mar-2024 23:57:13 UTC] PHP Deprecated:  Hook http_api_transports is deprecated since version 6.4.0 with no alternative available. in /wordpress/wp-includes/functions.php on line 140
+[15-Mar-2024 23:57:19 UTC] PHP Deprecated:  Hook http_api_transports is deprecated since version 6.4.0 with no alternative available. in /wordpress/wp-includes/functions.php on line 140
+[15-Mar-2024 23:57:25 UTC] PHP Warning:  file_get_contents(/wordpress/wp-includes/css/classic-themes.min.css): Failed to open stream: No such file or directory in /wordpress/wp-includes/script-loader.php on line 14
+[15-Mar-2024 23:58:47 UTC] PHP Warning:  file_get_contents(/wordpress/wp-includes/css/classic-themes.min.css): Failed to open stream: No such file or directory in /wordpress/wp-includes/script-loader.php on line 14
+[15-Mar-2024 23:59:27 UTC] PHP Warning:  file_get_contents(/wordpress/wp-includes/css/classic-themes.min.css): Failed to open stream: No such file or directory in /wordpress/wp-includes/script-loader.php on line 14
+[15-Mar-2024 23:59:34 UTC] PHP Deprecated:  Hook http_api_transports is deprecated since version 6.4.0 with no alternative available. in /wordpress/wp-includes/functions.php on line 140
+[15-Mar-2024 23:59:39 UTC] PHP Warning:  file_get_contents(/wordpress/wp-includes/css/classic-themes.min.css): Failed to open stream: No such file or directory in /wordpress/wp-includes/script-loader.php on line 14
+[16-Mar-2024 00:00:29 UTC] PHP Warning:  file_get_contents(/wordpress/wp-includes/css/classic-themes.min.css): Failed to open stream: No such file or directory in /wordpress/wp-includes/script-loader.php on line 14
+[16-Mar-2024 00:00:44 UTC] PHP Warning:  file_get_contents(/wordpress/wp-includes/css/classic-themes.min.css): Failed to open stream: No such file or directory in /wordpress/wp-includes/script-loader.php on line 14
+[16-Mar-2024 00:02:22 UTC] PHP Warning:  file_get_contents(/wordpress/wp-includes/css/classic-themes.min.css): Failed to open stream: No such file or directory in /wordpress/wp-includes/script-loader.php on line 14
+[16-Mar-2024 00:02:29 UTC] PHP Warning:  file_get_contents(/wordpress/wp-includes/css/classic-themes.min.css): Failed to open stream: No such file or directory in /wordpress/wp-includes/script-loader.php on line 14
+[16-Mar-2024 00:02:31 UTC] PHP Warning:  file_get_contents(/wordpress/wp-includes/css/classic-themes.min.css): Failed to open stream: No such file or directory in /wordpress/wp-includes/script-loader.php on line 14
+[16-Mar-2024 00:02:33 UTC] PHP Warning:  Undefined array key "width" in /wordpress/wp-admin/includes/image.php on line 2
+[16-Mar-2024 00:02:33 UTC] PHP Warning:  Undefined array key "height" in /wordpress/wp-admin/includes/image.php on line 2
+[16-Mar-2024 00:02:33 UTC] PHP Warning:  Undefined array key "width" in /wordpress/wp-admin/includes/image.php on line 2
+[16-Mar-2024 00:02:33 UTC] PHP Warning:  Undefined array key "height" in /wordpress/wp-admin/includes/image.php on line 2
+[16-Mar-2024 00:02:33 UTC] PHP Warning:  Undefined array key "width" in /wordpress/wp-admin/includes/image.php on line 2
+[16-Mar-2024 00:02:33 UTC] PHP Warning:  Undefined array key "height" in /wordpress/wp-admin/includes/image.php on line 2
+[16-Mar-2024 00:02:33 UTC] PHP Warning:  Undefined array key "width" in /wordpress/wp-admin/includes/image.php on line 2
+[16-Mar-2024 00:02:33 UTC] PHP Warning:  Undefined array key "height" in /wordpress/wp-admin/includes/image.php on line 2
+[16-Mar-2024 00:02:37 UTC] PHP Warning:  file_get_contents(/wordpress/wp-includes/css/classic-themes.min.css): Failed to open stream: No such file or directory in /wordpress/wp-includes/script-loader.php on line 14
+[16-Mar-2024 00:03:09 UTC] PHP Warning:  file_get_contents(/wordpress/wp-includes/css/classic-themes.min.css): Failed to open stream: No such file or directory in /wordpress/wp-includes/script-loader.php on line 14
+[16-Mar-2024 00:03:26 UTC] PHP Warning:  file_get_contents(/wordpress/wp-includes/css/classic-themes.min.css): Failed to open stream: No such file or directory in /wordpress/wp-includes/script-loader.php on line 14
+[16-Mar-2024 00:03:27 UTC] PHP Warning:  file_get_contents(/wordpress/wp-includes/css/classic-themes.min.css): Failed to open stream: No such file or directory in /wordpress/wp-includes/script-loader.php on line 14
+[16-Mar-2024 00:04:00 UTC] PHP Warning:  file_get_contents(/wordpress/wp-includes/css/classic-themes.min.css): Failed to open stream: No such file or directory in /wordpress/wp-includes/script-loader.php on line 14
+[16-Mar-2024 00:04:08 UTC] PHP Warning:  file_get_contents(/wordpress/wp-includes/css/classic-themes.min.css): Failed to open stream: No such file or directory in /wordpress/wp-includes/script-loader.php on line 14
+[16-Mar-2024 00:06:01 UTC] PHP Deprecated:  Hook http_api_transports is deprecated since version 6.4.0 with no alternative available. in /wordpress/wp-includes/functions.php on line 140
+[16-Mar-2024 00:06:13 UTC] PHP Deprecated:  Hook http_api_transports is deprecated since version 6.4.0 with no alternative available. in /wordpress/wp-includes/functions.php on line 140
+[19-Mar-2024 00:12:58 UTC] PHP Deprecated:  Hook http_api_transports is deprecated since version 6.4.0 with no alternative available. in /wordpress/wp-includes/functions.php on line 140
+[19-Mar-2024 00:13:03 UTC] PHP Deprecated:  Hook http_api_transports is deprecated since version 6.4.0 with no alternative available. in /wordpress/wp-includes/functions.php on line 140
